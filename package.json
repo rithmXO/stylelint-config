@@ -28,7 +28,7 @@
   "license": "MIT",
   "homepage": "https://github.com/strut-software/stylelint-config#readme",
   "devDependencies": {
-    "semantic-release": "^18.0.0",
+    "semantic-release": "^19.0.5",
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-scss": "^3.19.0"
