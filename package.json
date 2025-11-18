@@ -32,12 +32,12 @@
     "stylelint": "^14.16.1",
     "stylelint-config-standard": "^22.0.0",
     "stylelint-config-standard-scss": "^11.0.0",
-    "stylelint-scss": "^3.19.0"
+    "stylelint-scss": "^6.12.1"
   },
   "peerDependencies": {
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^22.0.0",
-    "stylelint-scss": "^3.19.0"
+    "stylelint-scss": "^6.12.1"
   },
   "main": "scss.js",
   "files": [
